@@ -45,9 +45,6 @@
 └── The Pattern — printer → GPL → Linux → internet
 ```
 
-> Want the full history first — Unix, AT&T, BSD, the legal wars, Oracle, Apple, SCO?
-> That story lives here → **[unix-to-linux/README.md](unix-to-linux/README.md)**
-
 ---
 
 ## What Is Open Source — The Real Idea
@@ -58,9 +55,9 @@ Open source is not a licensing strategy. It is not a business model. It started 
 
 The full story of how we got from Bell Labs in 1969 to Linux running 90% of the internet today — Unix, AT&T turning proprietary, BSD, the BSD lawsuit, GNU, why Linus built a kernel, Apple taking BSD and closing it, SCO trying to sue Linux out of existence, Oracle killing OpenSolaris overnight, the API wars — that story is deep and worth knowing completely.
 
+
+**Read it first if you want full context. Come back here for how open source works today.**
 > **It lives here → [unix-to-linux/README.md](unix-to-linux/README.md)**
->
-> Read it first if you want full context. Come back here for how open source works today.
 
 ---
 
