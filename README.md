@@ -28,7 +28,8 @@ Finance appears where it is useful context. It is not the subject.
 
 ## Repository Structure
 
-### **[01-how-open-source-actually-works.md](./01-how-open-source-actually-works.md)**
+### **[01-how-open-source-actually-works](./01-how-open-source-actually-works/README.md)** 
+
 > The real story behind open source — where it came from, how communities govern, and how companies fake it.
 
 **Covers:**
@@ -38,11 +39,11 @@ Finance appears where it is useful context. It is not the subject.
 - BDFL, foundation model, Python PEP process
 - Openwashing — Llama 2, Terraform BSL switch
 - FINOS — why competitors need neutral ground
-- Full history (Unix → BSD → Linux → legal wars) → **[unix-to-linux/README.md](./unix-to-linux/README.md)**
+- Full history (Unix → BSD → Linux → legal wars) → **[unix-to-linux](./unix-to-linux/README.md)**
 
 ---
 
-### **[02-licenses-the-complete-picture.md](./02-licenses-the-complete-picture.md)**
+### **[02-licenses-the-complete-picture](./02-licenses-the-complete-picture/README.md)**
 > What licenses actually do — the traps, the obligations, the real cost of choosing wrong.
 
 **Covers:**
@@ -56,7 +57,7 @@ Finance appears where it is useful context. It is not the subject.
 
 ---
 
-### **[03-supply-chain-security.md](./03-supply-chain-security.md)** 🚧
+### **[03-supply-chain-security](./03-supply-chain-security/README.md)** 🚧
 > How open source dependencies become attack vectors — and what to do about it.
 
 **Covers:**
@@ -69,7 +70,7 @@ Finance appears where it is useful context. It is not the subject.
 
 ---
 
-### **[04-contribution-process-reality.md](./04-contribution-process-reality.md)** 🚧
+### **[04-contribution-process-reality](./04-contribution-process-reality/README.md)** 🚧
 > What contribution approval looks like inside a large organisation.
 
 **Covers:**
@@ -96,7 +97,7 @@ Finance appears where it is useful context. It is not the subject.
 
 ---
 
-### **[06-antitrust-in-open-source.md](./06-antitrust-in-open-source.md)** 🚧
+### **[06-antitrust-in-open-source](./06-antitrust-in-open-source/README.md)** 🚧
 > Why Google, Microsoft, and Meta contribute to the same kernel — and where the line is.
 
 **Covers:**
@@ -108,7 +109,7 @@ Finance appears where it is useful context. It is not the subject.
 
 ---
 
-### **[linux-kernel-contribution/README.md](./linux-kernel-contribution/README.md)** 🚧
+### **[linux-kernel-contribution](./linux-kernel-contribution/README.md)** 🚧
 > How Linux kernel contribution actually works — patches, maintainers, mailing lists.
 
 **Covers:**
