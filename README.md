@@ -39,7 +39,7 @@ Finance appears where it is useful context. It is not the subject.
 - BDFL, foundation model, Python PEP process
 - Openwashing — Llama 2, Terraform BSL switch
 - FINOS — why competitors need neutral ground
-- Full history (Unix → BSD → Linux → legal wars) → [unix-to-linux /](./01-how-open-source-actually-works/unix-to-linux/README.md)
+- Full history (Unix → BSD → Linux → legal wars) → **[unix-to-linux /](./01-how-open-source-actually-works/unix-to-linux/README.md)**
 
 ---
 
